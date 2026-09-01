@@ -7,6 +7,6 @@ export default defineConfig({
     port: 5173,
   },
   preview: {
-    allowedHosts: ["://onrender.com"],
+    allowedHosts: ["sketchlet-frontend.onrender.com"],
   },
 });
